@@ -44,7 +44,7 @@
 /* Third-and-above-level lists */
 #admin-menu .dropdown li li.expandable ul {
   margin-left: 0;
-  margin-right: 160px;
+  margin-right: 160px!important;
 }
 
 #admin-menu .dropdown li:hover ul ul,
